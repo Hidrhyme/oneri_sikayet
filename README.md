@@ -28,6 +28,4 @@
 
 -- Discord Sunucumuz --
 
-• Özel URL'si (discord.gg/devotion) 
-
-• Sınırsız Linki (discord.gg/NsT8XQWFXk)
+• Sınırsız Linki (discord.gg/Eq6VacJ9az)
